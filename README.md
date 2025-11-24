@@ -35,7 +35,7 @@ src/
 
 ### Execution Steps
 1.  **Clone this repository:**
-    git clone https://github.com/YourUsername/EduPulse.git
+    git clone https://github.com/dhruvgupta0602/EduPulse-Project.git
 
 2.  **Navigate to the source folder:**
     cd EduPulse-Project/src
