@@ -23,7 +23,6 @@ The project is organized into modular classes:
 src/
 
 └── edupulse/
-
     ├── models/       # Contains data classes (User, Student, Faculty, Feedback)
     
     ├── controller/   # Contains logic (SystemController)
