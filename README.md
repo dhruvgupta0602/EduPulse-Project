@@ -26,7 +26,7 @@ src/
 └── edupulse/
     ├── models/       # Contains data classes (User, Student, Faculty, Feedback)
     ├── controller/   # Contains logic (SystemController)
-    └── main/         # Contains the entry point (EduPulseApp)
+    └── main/         # Contains the entry point (EduPulseApp)```
 
 ## 5. Steps to Install & Run
 
