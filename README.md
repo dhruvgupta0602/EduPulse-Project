@@ -18,15 +18,14 @@ This project was built to demonstrate **Object-Oriented Programming (OOP)** prin
 * **Tools:** Git/GitHub for version control, VS Code / IntelliJ IDEA.
 
 ## 4. Folder Structure
+
 The project is organized into modular classes:
 
+```text
 src/
-└──  edupulse/
-
+└── edupulse/
     ├── models/       # Contains data classes (User, Student, Faculty, Feedback)
-    
     ├── controller/   # Contains logic (SystemController)
-    
     └── main/         # Contains the entry point (EduPulseApp)
 
 ## 5. Steps to Install & Run
