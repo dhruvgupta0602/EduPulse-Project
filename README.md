@@ -21,6 +21,7 @@ This project was built to demonstrate **Object-Oriented Programming (OOP)** prin
 The project is organized into modular classes:
 
 src/
+
 └── edupulse/
 
     ├── models/       # Contains data classes (User, Student, Faculty, Feedback)
